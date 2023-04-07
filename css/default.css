@@ -28,7 +28,7 @@ body {
 }
 @media screen and (max-width: 500px){
     .content{
-        padding: 15px 20px 20px;
+        padding: 20px;
     }
     .heart-cont{
         width: 100%;
@@ -88,7 +88,7 @@ body {
         display:none
     }
     .code-cont{
-        height: 450px;
+        height: 400px;
     }
     #code {
         width:100%;
